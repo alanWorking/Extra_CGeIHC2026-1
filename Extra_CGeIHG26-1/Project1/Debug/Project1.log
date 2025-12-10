@@ -1,0 +1,15 @@
+﻿  Extra.cpp
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\include\shader_m.h(44): warning C4101: 'e': unreferenced local variable
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\include\modelanim.h(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\include\modelanim.h(520): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(206): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(207): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(208): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(638): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(639): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(643): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(644): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(646): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eact\source\repos\cgeihg_extraordinario-master\cgeihg_extraordinario-master\project1\extra.cpp(655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\eact\source\repos\CGeIHG_extraordinario-master\CGeIHG_extraordinario-master\Debug\Project1.exe
